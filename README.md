@@ -1,4 +1,4 @@
-### Hi there, I'm Anna, a budding frontend developer eager to kickstart my journey into the world of web development. 👋
+### Hi there, I'm Anna. A budding frontend developer eager to kickstart my journey into the world of web development. 👋
 
 - 👩‍💻 I'm actively seeking opportunities in the IT industry as I embark on my
   career!
