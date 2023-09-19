@@ -4,7 +4,7 @@
   career!
 - 🚀 Currently, I'm working on a project:
 
-- 🌐 Developing a website using various technologies: • Starting with vanilla
+  🌐 Developing a website using various technologies: • Starting with vanilla
   JavaScript, I'm building the core of the website. • Afterward, I plan to
   completely overhaul the project using Vue.js to enhance the user experience
   and expand the site's capabilities.
