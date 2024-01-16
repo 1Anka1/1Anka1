@@ -2,7 +2,7 @@
 
 - 👩‍💻 I'm actively seeking opportunities in the IT industry as I embark on my
   career!
-- ✔️ I successfully completed my first book page project using Vue.js - [check here](https://jolly-haupia-6b6607.netlify.app/)
+- ✔️ I successfully completed my first book page project using Vue.js - [check here.](https://jolly-haupia-6b6607.netlify.app/)
 - 🚀 Now transitioning to learning Nuxt.js. My next endeavor involves creating a movie page, building on the skills acquired during the Vue.js project.
 - 🌱 Learning is my superpower, and I'm committed to continuous improvement. I believe that every coding challenge is an opportunity to grow.
 
