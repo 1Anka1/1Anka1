@@ -2,15 +2,8 @@
 
 - 👩‍💻 I'm actively seeking opportunities in the IT industry as I embark on my
   career!
-- 🚀 Currently, I'm working on a project:
-
-  🌐 Developing a website using various technologies:
-  
-  - Starting with vanilla JavaScript, I'm building the core of the website.
-  
-  - Afterward, I plan to completely overhaul the project using Vue.js to enhance the user experience
-  and expand the site's capabilities.
-
+- ✔️ I successfully completed my first book page project using Vue.js - сheck here.
+- 🚀 Now transitioning to learning Nuxt.js. My next endeavor involves creating a movie page, building on the skills acquired during the Vue.js project.
 - 🌱 Learning is my superpower, and I'm committed to continuous improvement. I believe that every coding challenge is an opportunity to grow.
 
 - 📫 How to reach me: **annakasjanenko02@gmail.com**
