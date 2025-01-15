@@ -36,10 +36,10 @@
 
 ### My Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/1Anka1/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1Anka1&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/1Anka1/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1Anka1&repo=convoychat" />
 </a>
 
