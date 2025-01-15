@@ -37,9 +37,9 @@
 ### My Stats
 
 <a href="https://github.com/1Anka1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1Anka1&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1Anka1" />
 </a>
 <a href="https://github.com/1Anka1/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1Anka1&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1Anka1&layout=compact&langs_count=8&card_width=320" />
 </a>
 
