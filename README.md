@@ -1,4 +1,5 @@
-### Hi there, I'm Anna. A budding frontend developer passionate about building interactive and responsive web apps. 👋
+### Hi there, I'm Anna. 
+A budding frontend developer passionate about building interactive web apps. 👋
 
 - 👩‍💻 Actively seeking opportunities to start my career in tech!
 - 🚀 Currently diving into Next.js — building a store page as my next project.
