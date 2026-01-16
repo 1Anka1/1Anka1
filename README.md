@@ -31,13 +31,3 @@ A budding frontend developer passionate about building interactive web apps. ğŸ‘
 <!--<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
-
-### My Stats
-
-<a href="https://github.com/1Anka1/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1Anka1" />
-</a>
-<a href="https://github.com/1Anka1/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1Anka1&layout=compact&langs_count=8&card_width=320" />
-</a>
-
